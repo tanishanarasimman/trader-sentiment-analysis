@@ -39,3 +39,10 @@ Analyze how Bitcoin market sentiment impacts trader behavior and performance on 
 - Pandas
 - Seaborn
 - Matplotlib
+
+## How to Run
+
+1. Clone repo
+2. Open notebook in Jupyter
+3. Install dependencies
+4. Run all cells from top
